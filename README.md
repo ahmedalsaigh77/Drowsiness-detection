@@ -129,9 +129,9 @@ If dangerous behavior persists:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/driver-monitoring-system.git
+git clone https://github.com/ahmedalsaigh77/Drowsiness-detection.git
 
-cd driver-monitoring-system
+cd Drowsiness-detection
 ```
 
 ### Create Virtual Environment
